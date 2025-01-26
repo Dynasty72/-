@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
@@ -33,20 +32,20 @@
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-}
+      }
 
-table, th, td {
+    table, th, td {
     border: 1px solid #ccc;
-}
+    }
 
-th, td {
+    th, td {
     padding: 8px;
     text-align: left;
-}
+    }
 
-th {
+    th {
     background-color: #f2f2f2;
-}
+    }
 
 
     <script>
