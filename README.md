@@ -1,13 +1,13 @@
-<html lang="zh-Hant">
-<head>
+    <html lang="zh-Hant">
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>羽球活動報名</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-database.js"></script>
-</head>
-<body>
+    </head>
+    <body>
     <header>
         <h1>羽球活動報名</h1>
     </header>
@@ -28,6 +28,7 @@
             </tbody>
         </table>
     </section>
+    <style>
     table {
     width: 100%;
     border-collapse: collapse;
@@ -46,6 +47,7 @@
     th {
     background-color: #f2f2f2;
     }
+    </style>
 
 
     <script>
